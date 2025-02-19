@@ -33,7 +33,9 @@
 
 
  🎯 编程语言: C, C++, Python, java
+ 
  💻 工具: Keil5, stm32cubemx, Pycharm, MounRiver Studio, QT Creator , Arduino, Mixly, Android Studio
+ 
  🎥 多媒体处理: Jianying, Adobe Photoshop, Adobe After Effect, Adobe Premiere 
 
 
