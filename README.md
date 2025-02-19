@@ -5,24 +5,23 @@
 
 我是一名物联网开发者，热爱创新，忠于实践🚀
 偶像 [Elon Musk](https://x.com/elonmusk) 
-- 👨‍💻用C语言改变世界
-- 🎥 热爱视频制作，擅长摄影与视频剪辑
-- 🎮 迷恋科技与编程，正在研究深度学习与智能控制
+- 👨‍💻 用C语言改变世界 --不只是工作，更是爱好
+- 🎥 喜欢拍摄与剪辑  --用镜头把世间美好保留
+- 🚶‍♂️  健身长跑运动    --身体健康也很重要
+- 🎮 热衷电子游戏    --另一种愉悦身心的方法
 
 ## 我的技能 💻
 
  ```text 
- 🎯 编程语言: Python, JavaScript, Dart, C, C++ 
- 📱 框架: Flutter, React 
- 💻 工具: Git, Docker, Kubernetes, AWS 
- 🎥 视频制作: Final Cut Pro, Adobe Premiere 
+ 🎯 编程语言: C, C++, Python, java
+ 💻 工具: Keil5, stm32cubemx, Pycharm, MounRiver Studio, QT Creator , Arduino, Mixly, Android Studio
+ 🎥 多媒体处理: Jianying, Adobe Photoshop, Adobe After Effect, Adobe Premiere 
  ``` 
 
 ## 📂 我的开源项目
 
- - **[项目名称1](项目链接)**: 项目的简短介绍。 
- - **[项目名称2](项目链接)**: 项目的简短介绍。 
- - **[项目名称3](项目链接)**: 项目的简短介绍。 
+ - **[正在制作中](项目链接)**: 正在孵化。 
+
 
 ## 📊 GitHub 活跃度
 
@@ -30,15 +29,24 @@
 
 ## 🚀 关注我
 
- - [Twitter](https://twitter.com/你的Twitter账号) 
- - [LinkedIn](https://www.linkedin.com/in/你的LinkedIn账号/) 
- - [Blog](https://你的博客链接.com) 
+ - [Bilibili](https://space.bilibili.com/321881231) 
+
 
 ## 🛠️ 工具和技术
 
- ![技术图标](https://img.shields.io/badge/Flutter-Dart-blue?style=flat-square&logo=flutter&logoColor=white) 
- ![技术图标](https://img.shields.io/badge/Python-3.9-blue?style=flat-square&logo=python&logoColor=white) 
- ![技术图标](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat-square&logo=javascript&logoColor=white) 
+![Keil5](https://img.shields.io/badge/Keil-ARM-red?style=flat-square&logo=keil&logoColor=white)
+![STM32CubeMX](https://img.shields.io/badge/STM32CubeMX-STM32-blue?style=flat-square&logo=stm32&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-IDE-green?style=flat-square&logo=pycharm&logoColor=white)
+![MounRiver Studio](https://img.shields.io/badge/MounRiver_Studio-IDE-00bfae?style=flat-square&logo=visualstudiocode&logoColor=white)
+![QT Creator](https://img.shields.io/badge/QT_Creator-IDE-darkgreen?style=flat-square&logo=qt&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-IDE-blue?style=flat-square&logo=arduino&logoColor=white)
+![Mixly](https://img.shields.io/badge/Mixly-IDE-purple?style=flat-square&logo=arduino&logoColor=white)
+![C](https://img.shields.io/badge/C-ISO-blue?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-ISO-blue?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat-square&logo=python&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-IDE-green?style=flat-square&logo=androidstudio&logoColor=white)
+![Java](https://img.shields.io/badge/Java-8-green?style=flat-square&logo=java&logoColor=white)
+
 
 ---
 
