@@ -1,12 +1,11 @@
-![002749EC](https://github.com/user-attachments/assets/dec668b6-bcbb-4fb2-98a0-9ab1e83a28e8)# Welcome to iot291`s GitHub 👋
+# Welcome to iot291`s GitHub 👋
 
  ![Profile Views](https://komarev.com/ghpvc/?username=iot291&color=blueviolet)
 ## 你好，我是 iot291 🦸‍♂️/🦸‍♀️
 
 我是一名物联网开发者，热爱创新，忠于实践🚀
 偶像 [Elon Musk](https://x.com/elonmusk) 
-- ![00277FA2](https://github.com/user-attachments/assets/16f0f145-ea1f-471e-9631-7d3d4414ab62)
- 用C语言改变世界
+- 👨‍💻用C语言改变世界
 - 🎥 热爱视频制作，擅长摄影与视频剪辑
 - 🎮 迷恋科技与编程，正在研究深度学习与智能控制
 
