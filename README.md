@@ -26,7 +26,7 @@
 
 ## 📊 GitHub 活跃度
 
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iot291show_icons=true&count_private=true&hide=prs&theme=radical) 
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iot291&show_icons=true&count_private=true&hide=prs&theme=radical) 
 
 ## 🚀 关注我
 
