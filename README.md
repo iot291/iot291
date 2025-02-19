@@ -2,7 +2,7 @@
 
  ![Profile Views](https://komarev.com/ghpvc/?username=iot291&color=blueviolet)
  
-## 你好，我是 iot291 🦸‍♂️/🦸‍♀️
+## 你好，我是 iot291
 
 初入物联网的爱好者，从业者。
 
