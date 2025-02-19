@@ -1,7 +1,12 @@
 # Welcome to iot291`s GitHub 👋
 
  ![Profile Views](https://komarev.com/ghpvc/?username=iot291&color=blueviolet)
+ 
 ## 你好，我是 iot291 🦸‍♂️/🦸‍♀️
+
+初入物联网的爱好者，从业者。
+
+## 热爱创新，忠于实践🚀
 
 ## 🛠️ 工具和技术
 
@@ -22,12 +27,7 @@
 
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iot291&show_icons=true&count_private=true&hide=prs&theme=radical) 
  
-我是一名物联网开发者，热爱创新，忠于实践🚀
-偶像 [Elon Musk](https://x.com/elonmusk) 
-- 👨‍💻 用C语言改变世界 --不只是工作，更是爱好
-- 🎥 喜欢拍摄与剪辑  --用镜头把世间美好保留
-- 🚶‍♂️  健身长跑运动    --身体健康也很重要
-- 🎮 热衷电子游戏    --另一种愉悦身心的方法
+
 
 ## 我的技能 💻
 
@@ -50,4 +50,11 @@
 
 ---
 
+偶像 [Elon Musk](https://x.com/elonmusk) 
+- 👨‍💻 用C语言改变世界 --不只是工作，更是爱好
+- 🎥 喜欢拍摄与剪辑  --用镜头把世间美好保留
+- 🚶‍♂️  健身长跑运动    --身体健康也很重要
+- 🎮 热衷电子游戏    --另一种愉悦身心的方法
+
+---
  ⭐️ 如果你喜欢我的项目，记得给我点个星⭐️ 
