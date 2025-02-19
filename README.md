@@ -52,7 +52,8 @@
 
 ---
 
-偶像 [Elon Musk](https://x.com/elonmusk) 
+- 偶像 [Elon Musk](https://x.com/elonmusk)   [雷军](https://weibo.com/u/1749127163)
+
 - 👨‍💻 用C语言改变世界 --不只是工作，更是爱好
 - 🎥 喜欢拍摄与剪辑  --用镜头把世间美好保留
 - 🚶‍♂️  健身长跑运动    --身体健康也很重要
