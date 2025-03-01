@@ -53,7 +53,7 @@
 
  ## 其他
  
-- 偶像 [Elon Musk](https://x.com/elonmusk)   [雷军](https://weibo.com/u/1749127163)
+- 偶像 [Elon Musk](https://x.com/elonmusk)   [雷军](https://weibo.com/u/1749127163)   [Linus](https://github.com/torvalds)
 - 兄弟 [flyweb291(飞网物联创始人)](https://github.com/flyweb291)
 - 宝贝 [暂无](https://www.zhenai.com/)
 
